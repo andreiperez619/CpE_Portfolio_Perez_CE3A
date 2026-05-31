@@ -1,6 +1,6 @@
 # CpE_Portfolio_Perez_CE3A
 
-# Andrei Miguelle Gavin C. Perez - BSCpE Portfolio
+# Andrei Miguelle Gavin C. Perez - BSCpE3A Portfolio
 
 ## About Me
 Hi! I'm Andrei Miguelle Gavin C. Perez, a Computer Engineering student who enjoys technology and learning new skills. My hobbies are playing computer games, watching movies, and eating. I also love animals. I have two cats, Cookie and Maxx, and four dogs: Ling, Mocha, Koykoy, and Lina, whom I adopted.
