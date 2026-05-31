@@ -85,3 +85,9 @@ Hi! I'm Andrei Miguelle Gavin C. Perez, a Computer Engineering student who enjoy
 - Project screenshots are available in the images folder.
 
 ## Repository Structure
+
+
+
+
+## Contact Information
+Email : andreiperez2414@gmail.com
