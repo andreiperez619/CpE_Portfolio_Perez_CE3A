@@ -43,3 +43,6 @@ Hi! I'm Andrei Miguelle Gavin C. Perez, a Computer Engineering student who enjoy
 
 ## Main Menu
 ![image alt](https://github.com/andreiperez619/CpE_Portfolio_Perez_CE3A/blob/ef1fdb1a127b0c109340a28f366e15db5c948dc6/Images/0bed5eb6-6f0e-4365-8bf3-af08e4e65b8c.jpg)
+
+## Edit Profile & Logout
+![image alt](https://github.com/andreiperez619/CpE_Portfolio_Perez_CE3A/blob/3364f598b3358360de4fd7955b41c64934b4bdae/Images/6e934351-8a10-4bae-8274-cc4fad430ba2.jpg)
