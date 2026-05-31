@@ -35,3 +35,4 @@ Hi! I'm Andrei Miguelle Gavin C. Perez, a Computer Engineering student who enjoy
 ### Lost and Found Mobile Application
 
 #### Project Description
+- Lost and Found Mobile Application is a mobile-based platform that helps users report, search, and recover lost items efficiently. The application allows users to post lost or found item reports, upload photos, browse listings, and communicate with item owners, making the process of reconnecting lost belongings with their rightful owners faster and more organized.
