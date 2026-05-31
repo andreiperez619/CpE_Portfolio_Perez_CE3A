@@ -81,3 +81,7 @@ Hi! I'm Andrei Miguelle Gavin C. Perez, a Computer Engineering student who enjoy
 ## Vase
 ![image alt](https://github.com/andreiperez619/CpE_Portfolio_Perez_CE3A/blob/a2d9d984490096280bb7f0033af33ee63978488d/Images/Screenshot%202026-05-31%20191629.png)
 
+## Sreenshots
+- Project screenshots are available in the images folder.
+
+## Repository Structure
