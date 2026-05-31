@@ -61,3 +61,12 @@ Hi! I'm Andrei Miguelle Gavin C. Perez, a Computer Engineering student who enjoy
 - Firebase Cloud Database Integration
 - Search and View Item Details
 - User Profile Management
+
+### DC Power Supply 
+
+#### Project Description
+- Voltage Regulator Circuit is a simple electronics project designed to provide a stable output voltage for electronic devices. It uses a voltage regulator IC, capacitors, and diodes mounted on a prototype board to ensure reliable power delivery and protect connected components from voltage fluctuations.
+
+## Dc Power Supply Circuit
+![image alt](https://github.com/andreiperez619/CpE_Portfolio_Perez_CE3A/blob/40bd347587b8e84911bbb4c5f98dbcd6e01f8a62/Images/24967078-efc5-49af-9c5b-32508f45aedb.jpg)
+
