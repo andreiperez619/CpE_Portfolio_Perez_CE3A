@@ -90,8 +90,8 @@ Hi! I'm Andrei Miguelle Gavin C. Perez, a Computer Engineering student who enjoy
 - README.md → Portfolio documentation
 
 ## Contact Information
-Email : andreiperez2414@gmail.com
-github : https://github.com/andreiperez619/CpE_Portfolio_Perez_CE3A
+- Email : andreiperez2414@gmail.com
+- Github : https://github.com/andreiperez619/CpE_Portfolio_Perez_CE3A
 
 
 Thank you for taking the time to visit my portfolio. I hope it has provided insight into my skills, projects, and experiences as a Computer Engineering student. I am continuously learning and improving my technical abilities to prepare for future opportunities in the field of technology. I appreciate your interest and look forward to connecting and growing as a future professional. Thank you for your support!
