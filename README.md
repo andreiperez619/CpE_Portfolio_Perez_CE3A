@@ -70,3 +70,14 @@ Hi! I'm Andrei Miguelle Gavin C. Perez, a Computer Engineering student who enjoy
 ## Dc Power Supply Circuit
 ![image alt](https://github.com/andreiperez619/CpE_Portfolio_Perez_CE3A/blob/40bd347587b8e84911bbb4c5f98dbcd6e01f8a62/Images/24967078-efc5-49af-9c5b-32508f45aedb.jpg)
 
+### Onshape
+
+## Happy New Year!
+![image alt](https://github.com/andreiperez619/CpE_Portfolio_Perez_CE3A/blob/a2d9d984490096280bb7f0033af33ee63978488d/Images/Screenshot%202026-05-31%20191219.png)
+
+## Garden
+![image alt](https://github.com/andreiperez619/CpE_Portfolio_Perez_CE3A/blob/a2d9d984490096280bb7f0033af33ee63978488d/Images/Screenshot%202026-05-31%20191245.png)
+
+## Vase
+![image alt](https://github.com/andreiperez619/CpE_Portfolio_Perez_CE3A/blob/a2d9d984490096280bb7f0033af33ee63978488d/Images/Screenshot%202026-05-31%20191629.png)
+
